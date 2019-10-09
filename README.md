@@ -29,8 +29,8 @@ In addition to the above notebooks, there also are a few key data files:
 
 ## Results
 We will publish our results & findings in a series of 2 blog posts:
-__1. [Storage + Commercial Buildings (Part 1): Load Forecasting]()__
-__2. Storage + Commercial Buildings (Part 1): Energy Storage Dispatch:__ Coming Soon
+1. __[Storage + Commercial Buildings (Part 1): Load Forecasting]()__
+2. __Storage + Commercial Buildings (Part 1): Energy Storage Dispatch:__ Coming Soon
 
 ## Licensing
 
